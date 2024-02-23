@@ -1,0 +1,15 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ],
+  "dryRun": null,
+  "gitAuthor": "renovatebot jeichler <1665338+jeichler@users.noreply.github.com>",
+  "onboarding": true,
+  "dependencyDashboard": true,
+  "platform": "github",
+  "repositories": [
+    "jeichler/renovate-config",
+    "jeichler/renovate-reproducer"
+  ]
+}
